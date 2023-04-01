@@ -1,5 +1,5 @@
 ffmpeg-python
-opencv-python
+opencv-python==4.6.0.66
 face_alignment
 scikit-learn
 pydub
