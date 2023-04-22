@@ -1,5 +1,4 @@
 ffmpeg-python
-opencv-python==4.6.0.66
 face_alignment
 scikit-learn
 pydub
@@ -9,3 +8,5 @@ librosa
 pysptk
 pyworld
 resemblyzer
+opencv-python==4.6.0.66
+tensorboardX==2.5.1
